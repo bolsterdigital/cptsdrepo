@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. It is a project dedicated to collecting information and resources about Complex PTSD. You can contribute to this project by forking it and submitting pull requests.
 
 ### Installation
 

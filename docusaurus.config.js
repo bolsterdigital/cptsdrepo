@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'bureaubolster', // Usually your GitHub org/user name.
-  projectName: 'cptsd-repo', // Usually your repo name.
+  organizationName: 'bolsterdigital', // Usually your GitHub org/user name.
+  projectName: 'cptsdrepo', // Usually your repo name.
   plugins: [require.resolve('@cmfcmf/docusaurus-search-local')],
 
   presets: [
@@ -28,13 +28,13 @@ const config = {
 
           // Please change this to your repo.
           editUrl:
-            'https://github.com/bureaubolster/cptsdrepo/edit/main/website/',
+            'https://github.com/bolsterdigital/cptsdrepo/edit/main/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/bureaubolster/cptsdrepo/edit/main/website/blog/',
+            'https://github.com/bolsterdigital/cptsdrepo/edit/main/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -61,7 +61,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/bolsterdigital/cptsdrepo',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,7 +89,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/bolsetrdigital/cptsdrepo',
               },
             ],
           },
