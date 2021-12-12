@@ -74,7 +74,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Startn',
+                label: 'Start',
                 to: '/',
               },
             ],
