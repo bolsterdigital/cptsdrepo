@@ -89,7 +89,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/bolsetrdigital/cptsdrepo',
+                href: 'https://github.com/bolsterdigital/cptsdrepo',
               },
             ],
           },
