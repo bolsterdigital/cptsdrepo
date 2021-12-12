@@ -5,4 +5,4 @@ slug: /
 
 # Intro
 
-Hier verzamel ik alle informatie die op mijn persoonlijk en werkzame leven betrekking heeft, die handig is om te documenteren en terug te vinden.
+This will grow into a repository of knowledge on C-PTSD or Complex PTSD. It is an open source project.
