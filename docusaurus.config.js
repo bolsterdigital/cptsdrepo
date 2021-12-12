@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CPTSD Repository',
+  title: 'CPTSD Support',
   tagline: 'Everything you need for understanding and recovering from CPTSD',
-  url: 'https://cptsdrepository.netlify.app',
+  url: 'https://cptsd.support',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
