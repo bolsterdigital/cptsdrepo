@@ -4,3 +4,5 @@ Here is a list of very useful online communities that you can visit to find info
 
 - [/r/CPTSD](https://www.reddit.com/r/CPTSD/) on Reddit
 - CPTSD [Discord Server](https://discord.gg/maQdM98) (description of the server can be found in [this Reddit post](https://www.reddit.com/r/CPTSD/comments/azyibn/cptsdptsd_discord_server/))
+- [/r/CPTSDmemes](https://www.reddit.com/r/CPTSDmemes/)
+- [/r/CPTSDcreatives](https://www.reddit.com/r/cptsdcreatives/)
