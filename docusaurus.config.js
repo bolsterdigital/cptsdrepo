@@ -15,7 +15,10 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'bolsterdigital', // Usually your GitHub org/user name.
   projectName: 'cptsdrepo', // Usually your repo name.
-  plugins: [require.resolve('@cmfcmf/docusaurus-search-local')],
+  plugins: [
+    require.resolve('@cmfcmf/docusaurus-search-local'),
+    'docusaurus-plugin-matomo',
+  ],
 
   presets: [
     [
@@ -46,6 +49,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      matomo: {
+        matomoUrl: 'https://stats.bureaubolster.nl/',
+        siteId: '23',
+        phpLoader: 'matomo.php',
+        jsLoader: 'matomo.js',
+      },
       navbar: {
         title: 'CPTSD Support',
         logo: {
