@@ -16,6 +16,20 @@
   --ifm-code-font-size: 95%;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@700&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+button,
+.button,
+.navbar__items,
+.footer__title {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;
