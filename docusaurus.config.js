@@ -49,6 +49,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'img/og-image.png',
       matomo: {
         matomoUrl: 'https://stats.bureaubolster.nl/',
         siteId: '23',
@@ -58,8 +59,8 @@ const config = {
       navbar: {
         title: 'CPTSD Support',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'CPTSD Support logo',
+          src: 'img/logo.png',
         },
         items: [
           {
